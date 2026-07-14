@@ -40,7 +40,7 @@ OmniPilot is a desktop application that intelligently routes your prompts to the
 
 ```powershell
 # 1. Clone repository
-git clone https://github.com/yourusername/omnipilot.git
+git clone https://github.com/bestprogrammer212/omnipilot.git
 cd omnipilot
 
 # 2. Install dependencies
