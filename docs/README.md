@@ -34,7 +34,7 @@ OmniPilot is a desktop application that intelligently routes your prompts to the
    - OpenCode (`pip install opencode`)
    - Open Interpreter Desktop (`irm https://www.openinterpreter.com/install.ps1 | iex`)
    - AI 3D Generator Pro (from Microsoft Store)
-   - Agency Agents (from GitHub releases)
+   - Agency Agents https://github.com/msitarzewski/agency-agents-app
 
 ### Quick Start
 
